@@ -1,2 +1,2 @@
 # powerbi
-# some power BI trash
+some power BI pics
